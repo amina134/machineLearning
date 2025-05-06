@@ -1,0 +1,6 @@
+source venv/bin/activate
+python simulation/main_simulation.py
+pip freeze > requirements.txt
+
+
+python simulation/main_simulation.py
