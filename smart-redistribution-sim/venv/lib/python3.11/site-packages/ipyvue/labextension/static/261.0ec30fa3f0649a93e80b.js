@@ -1,0 +1,1 @@
+(self.webpackChunkjupyter_vue=self.webpackChunkjupyter_vue||[]).push([[261],{261:(e,t,r)=>{const u=r(837),p=r(568);e.exports={id:"jupyter-vue",requires:[u.IJupyterWidgetRegistry],activate(e,t){window.jupyterVue=p,t.registerWidget({name:"jupyter-vue",version:p.version,exports:p})},autoStart:!0}}}]);

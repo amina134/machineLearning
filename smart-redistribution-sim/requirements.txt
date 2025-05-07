@@ -1,8 +1,8 @@
-mesa==1.2.1             # Agent-based modeling framework
-deap==1.3.1             # Evolutionary algorithm (genetic programming)
-simpy==4.0.1            # Optional for discrete-event simulation, useful for transport timing
-numpy                   # Required by many libraries (e.g., DEAP, Mesa)
-pandas                  # For logging, analysis
-matplotlib              # For visualizing metrics or grid state
-plotly                  # Optional: advanced visualizations or interactive charts
-dash                    # Optional: dashboard GUI (mentioned in the scenario)
+mesa==3.1.5
+deap==1.4.1
+simpy==4.0.1
+numpy==1.26.4
+pandas==2.2.2
+matplotlib==3.8.4
+plotly==5.22.0
+dash==2.17.0
